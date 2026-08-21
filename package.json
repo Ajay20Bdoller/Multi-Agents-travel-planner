@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.14.0",
+    "jspdf": "^4.2.1",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/html2pdf.js": "^0.10.0"
+  }
+}
